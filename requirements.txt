@@ -2,5 +2,4 @@ streamlit
 matplotlib
 Image
 torch
-models
-transforms
+torchvision
