@@ -7,7 +7,7 @@ from PIL import Image
 import torch
 from torchvision import models
 from torchvision import transforms
-#import pickle
+import pickle
 
 # タイトルとテキストを記入
 st.title('鳥の種類判別')
